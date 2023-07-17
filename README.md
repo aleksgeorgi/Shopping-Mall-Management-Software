@@ -14,7 +14,8 @@ Purpose of the project was to chose a subject that was versitle enough to allow 
 - Memento
 - Iterator
 - Factory
-  We also had to create documentation for the requirements, specifications, architecutre, project diagrams (flowchart, UML, context), use cases, acceptence criteria, and unit/component testing.
+
+We also had to create documentation for the requirements, specifications, architecutre, project diagrams (flowchart, UML, context), use cases, acceptence criteria, and unit/component testing.
 
 ## Responsibilities
 
