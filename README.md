@@ -2,7 +2,7 @@
 
 ## Description
 
-This was a group project for CS370 with Aryeh Greenberg at CUNY Queens College during the fall 2022 semester.
+This was a Java group project for CS370 with Aryeh Greenberg at CUNY Queens College during the fall 2022 semester.
 
 ## Goal
 
@@ -24,13 +24,16 @@ I (Aleksandra) was the team captain. In addition to creating the decorator patte
 ## Project Document
 
 <a href="https://imgur.com/rahzr4C"><img src="https://i.imgur.com/rahzr4C.jpg" title="source: imgur.com" /></a>
-
 <a href="https://imgur.com/Lk5dcdj"><img src="https://i.imgur.com/Lk5dcdj.jpg" title="source: imgur.com" /></a>
-
 <a href="https://imgur.com/fxIDRPD"><img src="https://i.imgur.com/fxIDRPD.jpg" title="source: imgur.com" /></a>
-
 <a href="https://imgur.com/KCKrmj1"><img src="https://i.imgur.com/KCKrmj1.jpg" title="source: imgur.com" /></a>
-
 <a href="https://imgur.com/VquFozI"><img src="https://i.imgur.com/VquFozI.jpg" title="source: imgur.com" /></a>
-
 <a href="https://imgur.com/PL0O1ac"><img src="https://i.imgur.com/PL0O1ac.jpg" title="source: imgur.com" /></a>
+
+## Decorator Document
+
+<a href="https://imgur.com/IH3hdZz"><img src="https://i.imgur.com/IH3hdZz.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/BHEJpjr"><img src="https://i.imgur.com/BHEJpjr.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/Yd0vDUS"><img src="https://i.imgur.com/Yd0vDUS.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/8ShLTcV"><img src="https://i.imgur.com/8ShLTcV.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/lrZ4TVU"><img src="https://i.imgur.com/lrZ4TVU.jpg" title="source: imgur.com" /></a>
